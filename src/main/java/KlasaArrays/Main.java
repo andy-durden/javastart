@@ -36,6 +36,8 @@ public class Main {
         int index = Arrays.binarySearch(ints1, 1000);
         System.out.println(index);
 
+        int t=1;
+
       /* int x=15342364;
         x =x%10;
         System.out.println(x);
